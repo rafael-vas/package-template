@@ -51,7 +51,7 @@ plot_result(image1, image2, difference_image)
 plot_histogram(image)
 ```
 
-## 🛠️ Como Usar (Desenvolvedores/Colaboradores)
+## Como Usar (Desenvolvedores/Colaboradores)
 1. Clone o repositório:
 ```bash
 git clone https://github.com/rafael-vas/image-processing-package.git
